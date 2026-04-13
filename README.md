@@ -82,5 +82,5 @@
     max_depth) მოგვცა საშუალება, თავიდან აგვეცილებინა ბუსტინგისთვის დამახასიათებელი Overfitting-ის რისკი და მიგვეღო ბალანსი
     მოდელის სირთულესა და სიზუსტეს შორის.
 
-* **MLflow ექსპერიმენტების ბმული:** [DagsHub Experiments](https://dagshub.com/GigiSichinava/ML-Assignment-1.mlflow)
 * **DagsHub რეპოზიტორიის ბმული:** [Project Repository](https://dagshub.com/GigiSichinava/ML-Assignment-1)
+* **MLflow ექსპერიმენტების ბმული:** [DagsHub Experiments](https://dagshub.com/GigiSichinava/ML-Assignment-1.mlflow)
